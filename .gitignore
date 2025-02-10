@@ -1,2 +1,2 @@
-ignore all .terraform files
+#ignore all .terraform files
 /.terraform/
